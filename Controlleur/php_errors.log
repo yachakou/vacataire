@@ -1,0 +1,92 @@
+[29-Mar-2014 12:59:01] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:01] PHP Stack trace:
+[29-Mar-2014 12:59:01] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:01] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:01] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 12:59:01] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:01] PHP Stack trace:
+[29-Mar-2014 12:59:01] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:01] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:01] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 12:59:09] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:09] PHP Stack trace:
+[29-Mar-2014 12:59:09] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:09] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:09] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 12:59:09] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:09] PHP Stack trace:
+[29-Mar-2014 12:59:09] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:09] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:09] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 12:59:23] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:23] PHP Stack trace:
+[29-Mar-2014 12:59:23] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:23] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:23] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 12:59:23] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:23] PHP Stack trace:
+[29-Mar-2014 12:59:23] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:23] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:23] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 12:59:36] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:36] PHP Stack trace:
+[29-Mar-2014 12:59:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:36] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:36] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 12:59:36] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 12:59:36] PHP Stack trace:
+[29-Mar-2014 12:59:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 12:59:36] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 12:59:36] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 13:08:00] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:08:00] PHP Stack trace:
+[29-Mar-2014 13:08:00] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 13:08:00] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 13:08:00] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 13:08:00] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:08:00] PHP Stack trace:
+[29-Mar-2014 13:08:00] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 13:08:00] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 13:08:00] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 13:08:48] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:08:48] PHP Stack trace:
+[29-Mar-2014 13:08:48] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 13:08:48] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 13:08:48] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 13:08:48] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:08:48] PHP Stack trace:
+[29-Mar-2014 13:08:48] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:0
+[29-Mar-2014 13:08:48] PHP   2. pData->ImportFromCSV() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/Example1.php:12
+[29-Mar-2014 13:08:48] PHP   3. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class:111
+[29-Mar-2014 13:08:57] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:08:57] PHP Stack trace:
+[29-Mar-2014 13:08:57] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:08:57] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12
+[29-Mar-2014 13:08:57] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:08:57] PHP Stack trace:
+[29-Mar-2014 13:08:57] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:08:57] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12
+[29-Mar-2014 13:09:05] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:09:05] PHP Stack trace:
+[29-Mar-2014 13:09:05] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:09:05] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12
+[29-Mar-2014 13:09:05] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:09:05] PHP Stack trace:
+[29-Mar-2014 13:09:05] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:09:05] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12
+[29-Mar-2014 13:09:15] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:09:15] PHP Stack trace:
+[29-Mar-2014 13:09:15] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:09:15] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12
+[29-Mar-2014 13:09:15] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:09:15] PHP Stack trace:
+[29-Mar-2014 13:09:15] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:09:15] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12
+[29-Mar-2014 13:14:00] PHP Notice:  Uninitialized string offset: 0 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:14:00] PHP Stack trace:
+[29-Mar-2014 13:14:00] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:14:00] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12
+[29-Mar-2014 13:14:00] PHP Notice:  Uninitialized string offset: 1 in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/pChart/pData.class on line 127
+[29-Mar-2014 13:14:00] PHP Stack trace:
+[29-Mar-2014 13:14:00] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:0
+[29-Mar-2014 13:14:00] PHP   2. pData->AddPoint() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/pChart.1.27d/HomePage3.php:12

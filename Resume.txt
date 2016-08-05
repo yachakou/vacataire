@@ -1,0 +1,52 @@
+                                            Resumer des bases de donnees sur phpMyAdmin
+                                            
+          
+          
+                                            
+Formation :
+NomFormation    idFormation
+
+L3                  1
+M1                  2
+M2                  3
+
+
+Parcours :
+
+NomParcours  :   idParcours
+
+ Classique   :      1
+Alternance   :      2 
+
+
+
+Status :
+
+NomStatus       :        IdStatus       :             NombreHeure
+
+    0                    root                         0
+    1                   vacataire                     20h (pour le moment)
+    2                   gestionnaire                  20h
+    3                   responsableL3Classique        20h
+    4                   responsableL3Apprentissage    20h
+    5                   responsableM1Classique        20h
+    6                   responsableM1Apprentissage    20h
+    7                   responsableM2Classique        20h
+    8                   responsableM2Apprentissage    20h
+    
+    
+    Utilisateur par défaut :   
+    id      mdp(sanscrypt)  mdpc(crypt)
+    root    root            99adc231b045331e514a516b4b7680f588e3823213abe
+    
+    
+    
+    
+    
+Type cours dans la table Horaire :
+
+
+
+    0 : CM
+    1:  TD
+    2:  TP

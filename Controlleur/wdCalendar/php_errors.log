@@ -1,0 +1,272 @@
+[25-Mar-2014 10:57:19] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php on line 16
+[25-Mar-2014 10:57:19] PHP Stack trace:
+[25-Mar-2014 10:57:19] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php:0
+[25-Mar-2014 10:57:19] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php on line 16
+[25-Mar-2014 10:57:19] PHP Stack trace:
+[25-Mar-2014 10:57:19] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php:0
+[25-Mar-2014 10:57:24] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php on line 16
+[25-Mar-2014 10:57:24] PHP Stack trace:
+[25-Mar-2014 10:57:24] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php on line 16
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 201
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 215
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 221
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 222
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 228
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 232
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 233
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 234
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 235
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 237
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 244
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 250
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 201
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 215
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 221
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 222
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 228
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 232
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 233
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 234
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 235
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 237
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 244
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 250
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:36] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php on line 16
+[25-Mar-2014 10:57:36] PHP Stack trace:
+[25-Mar-2014 10:57:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.db.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 201
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 215
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 221
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 222
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 228
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 232
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 233
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 234
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 235
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 237
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 244
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:57:47] PHP Notice:  Undefined variable: event in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 250
+[25-Mar-2014 10:57:47] PHP Stack trace:
+[25-Mar-2014 10:57:47] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:58:24] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 10:58:24] PHP Stack trace:
+[25-Mar-2014 10:58:24] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:58:24] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 10:58:24] PHP Stack trace:
+[25-Mar-2014 10:58:24] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:58:36] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 10:58:36] PHP Stack trace:
+[25-Mar-2014 10:58:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 10:58:36] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 10:58:36] PHP Stack trace:
+[25-Mar-2014 10:58:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:01:43] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 11:01:43] PHP Stack trace:
+[25-Mar-2014 11:01:43] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:06:27] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 11:06:27] PHP Stack trace:
+[25-Mar-2014 11:06:27] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:06:27] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 11:06:27] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 11:06:27] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 11:06:27] PHP Stack trace:
+[25-Mar-2014 11:06:27] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:06:27] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 11:06:27] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
+[25-Mar-2014 11:06:27] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 11:06:27] PHP Stack trace:
+[25-Mar-2014 11:06:27] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:06:27] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 11:06:27] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 11:06:27] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 11:06:27] PHP Stack trace:
+[25-Mar-2014 11:06:27] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:06:27] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 11:06:27] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
+[25-Mar-2014 11:10:08] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 11:10:08] PHP Stack trace:
+[25-Mar-2014 11:10:08] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:10:33] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 11:10:33] PHP Stack trace:
+[25-Mar-2014 11:10:33] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:11:44] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 11:11:44] PHP Stack trace:
+[25-Mar-2014 11:11:44] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:11:44] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 11:11:44] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 11:11:44] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 11:11:44] PHP Stack trace:
+[25-Mar-2014 11:11:44] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:11:44] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 11:11:44] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
+[25-Mar-2014 11:11:44] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 11:11:44] PHP Stack trace:
+[25-Mar-2014 11:11:44] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:11:44] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 11:11:44] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 11:11:44] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 11:11:44] PHP Stack trace:
+[25-Mar-2014 11:11:44] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:11:44] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 11:11:44] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
+[25-Mar-2014 11:26:24] PHP Warning:  include(../Vue/header.php): failed to open stream: No such file or directory in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:26:24] PHP Stack trace:
+[25-Mar-2014 11:26:24] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:26:24] PHP Warning:  include(): Failed opening '../Vue/header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:26:24] PHP Stack trace:
+[25-Mar-2014 11:26:24] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:27:30] PHP Warning:  include(../../Vue/header.php): failed to open stream: No such file or directory in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:27:30] PHP Stack trace:
+[25-Mar-2014 11:27:30] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:27:30] PHP Warning:  include(): Failed opening '../../Vue/header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:27:30] PHP Stack trace:
+[25-Mar-2014 11:27:31] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:28:20] PHP Warning:  include(../../Vue/header.php): failed to open stream: No such file or directory in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:28:20] PHP Stack trace:
+[25-Mar-2014 11:28:20] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:28:20] PHP Warning:  include(): Failed opening '../../Vue/header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:28:20] PHP Stack trace:
+[25-Mar-2014 11:28:20] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:30:36] PHP Warning:  include(../../Vue/headers.php): failed to open stream: No such file or directory in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:30:36] PHP Stack trace:
+[25-Mar-2014 11:30:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:30:36] PHP Warning:  include(): Failed opening '../../Vue/headers.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 7
+[25-Mar-2014 11:30:36] PHP Stack trace:
+[25-Mar-2014 11:30:36] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 11:31:43] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 11:31:43] PHP Stack trace:
+[25-Mar-2014 11:31:43] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:52:29] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 11:52:29] PHP Stack trace:
+[25-Mar-2014 11:52:29] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 11:56:02] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 11:56:02] PHP Stack trace:
+[25-Mar-2014 11:56:02] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:01:52] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 12:01:52] PHP Stack trace:
+[25-Mar-2014 12:01:52] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:02:20] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 12:02:20] PHP Stack trace:
+[25-Mar-2014 12:02:20] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:14:22] PHP Notice:  Undefined variable: SESSION in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 6
+[25-Mar-2014 12:14:22] PHP Stack trace:
+[25-Mar-2014 12:14:22] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 12:16:17] PHP Notice:  Undefined index: login in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php on line 5
+[25-Mar-2014 12:16:17] PHP Stack trace:
+[25-Mar-2014 12:16:17] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/calendrier.php:0
+[25-Mar-2014 12:24:35] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 12:24:35] PHP Stack trace:
+[25-Mar-2014 12:24:35] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:24:35] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 12:24:35] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 12:24:35] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 12:24:35] PHP Stack trace:
+[25-Mar-2014 12:24:35] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:24:35] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 12:24:35] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
+[25-Mar-2014 12:24:35] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 12:24:35] PHP Stack trace:
+[25-Mar-2014 12:24:35] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:24:35] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 12:24:35] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 12:24:35] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 12:24:35] PHP Stack trace:
+[25-Mar-2014 12:24:35] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:24:35] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 12:24:35] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
+[25-Mar-2014 12:25:26] PHP Notice:  Undefined index: id in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php on line 16
+[25-Mar-2014 12:25:26] PHP Stack trace:
+[25-Mar-2014 12:25:26] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:45:03] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 12:45:03] PHP Stack trace:
+[25-Mar-2014 12:45:03] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:45:03] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 12:45:03] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 12:45:03] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 12:45:03] PHP Stack trace:
+[25-Mar-2014 12:45:03] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:45:03] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:227
+[25-Mar-2014 12:45:03] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
+[25-Mar-2014 12:45:03] PHP Warning:  mktime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 25
+[25-Mar-2014 12:45:03] PHP Stack trace:
+[25-Mar-2014 12:45:03] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:45:03] PHP   2. mySql2PhpTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 12:45:03] PHP   3. mktime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:25
+[25-Mar-2014 12:45:03] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EDT/-4.0/DST' instead in /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php on line 16
+[25-Mar-2014 12:45:03] PHP Stack trace:
+[25-Mar-2014 12:45:03] PHP   1. {main}() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:0
+[25-Mar-2014 12:45:03] PHP   2. php2JsTime() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/edit.php:228
+[25-Mar-2014 12:45:03] PHP   3. date() /var/lib/stickshift/53176a384382ecd7f100039c/app-root/data/791195/Controlleur/wdCalendar/wdCalendar/php/functions.php:16
